@@ -148,7 +148,7 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
+      <img width="30" src="https://github.com/KatherineMalte/KatherineMalte/blob/main/avatar.jpeg" alt="Xcode" title="Xcode"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
