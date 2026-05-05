@@ -35,16 +35,15 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Bogota D.C, Colombia.
+ * @param {string} languagues - English, Spanish, German.
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} hobbies - Language learning, gym, building software projects and exploring new tech.
+ * @param {string} education - Software Engineering, UNINPAHU (Fundación Universitaria para el Desarrollo Humano).
+ * @param {string} approachable - Yes, open to collaborating on backend and full-stack projects (Java, Spring, Angular).
+ * @param {string} strength - Consistency, adaptability and strong self-learning skills.
+ * @param {string} weakness - Can be a bit reserved at first and tend to overthink.
  *
  * @throws {Punch} To any and all bugs.
  *
@@ -149,15 +148,6 @@
   </p>
 </div>
 </details>
-
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
-</details>
-
 <details>
   <summary>Open Source Contributions</summary>
   <br>
