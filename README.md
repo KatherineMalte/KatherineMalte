@@ -20,7 +20,7 @@
   </div>
 <div align=center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Katherine;Software+Engineer+in+progress;Java+%7C+Spring+Boot+Developer;Learning+Cloud+and+AI;Always+improving+my+English;Gym+and+Discipline+Lifestyle;Building+my+future+in+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Katherine;Software+Engineer;Java+%7C+Spring+Boot+Developer;Learning+Cloud+and+AI;Always+improving+my+English;Gym+and+Discipline+Lifestyle;Building+my+future+in+Tech" alt="Typing SVG" />
   </a>
 </div>
 </div>
