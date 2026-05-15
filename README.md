@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/KatherineMalte/KatherineMalte/blob/main/avatar.jpeg" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of KK10" src="https://github.com/KatherineMalte/KatherineMalte/blob/main/avatari.png" alt="Avatar photo of KK10">
   </div>
 <div align=center>
   <a href="https://git.io/typing-svg">
